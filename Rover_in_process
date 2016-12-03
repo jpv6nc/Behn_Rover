@@ -3677,7 +3677,7 @@ be impossible to escape—<hi>Belvile</hi> I conjure you to walk under
 my Chamber Window, from whence I'll give you some Instructi<g ref="char:EOLhyphen"/>ons
 what to do—this rude Man has undone us.</p>
                   <stage>[Exit.</stage>
-               </sp>
+t               </sp>
                <sp>
                   <speaker>Will.</speaker>
                   <p>Belvile!</p>
@@ -3687,7 +3687,7 @@ what to do—this rude Man has undone us.</p>
                   <speaker>Ped.</speaker>
                   <p>I'm betray'd! run <hi>Stephano</hi> and see if <hi>Florinda</hi> be safe?
 <stage>[<hi>Ex.</hi> Steph.</stage>
-So, who e're they be, all is not
+oSo, who e're they be, all is not
 well, I'll to <hi>Florindas</hi> Cham<g ref="char:EOLhyphen"/>ber.</p>
                </sp>
                <stage>They Fight, and <hi>Ped.</hi>
@@ -3713,7 +3713,7 @@ Servants Masquerading I'le warrant.</p>
                </sp>
                <sp>
                   <speaker>Ped.</speaker>
-                  <p>Masquerading! a lewd Custome to debauch our youth,
+<                  <p>Masquerading! a lewd Custome to debauch our youth,
 —there's something more in this then I imagine.</p>
                </sp>
                <stage>[Exeunt.</stage>
@@ -3732,7 +3732,7 @@ must you be a Beast?—a Brute? a Senseless Swine.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>Well Sir, you see I am endu'd with patience—I can bear
+                  <p>Well Sir, you see I am endu'd<note>imbued or transfused</note> with patience—I can bear
 —tho Egad y'are very free with me, methinks.—I was in good
 hopes the Quarrel wou'd have been on my side, for so uncivilly
 interrupting me.</p>
