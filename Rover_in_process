@@ -219,18 +219,18 @@ of the <hi>English Saxons.</hi> Together with a Catalogue of the 76
             <pb facs="tcp:98343:3"/>
             <head>The Actors Names.</head>
             <list>
-               <item>Mr. <hi>Ievorne, Don Antonio,</hi> The Vice-Roy's Son.</item>
+               <item>Mr. <hi>Jevorne, Don Antonio,</hi> The Vice-Roy's Son.</item>
                <item>Mr. <hi>Medburne, Don Pedro,</hi> A Noble <hi>Spaniard,</hi> his Friend.</item>
                <item>Mr. <hi>Betterton, Belvile,</hi> An <hi>English</hi> Colonel in Love with <hi>Florinda.</hi>
                </item>
                <item>Mr. <hi>Smith, Willmore,</hi> The ROVER.</item>
                <item>Mr. <hi>Crosbie, Frederick,</hi> An <hi>English</hi> Gentleman, and Friend to <hi>Bel.</hi> and <hi>Fred.</hi>
                </item>
-               <item>Mr. <hi>Underhill, Blunt,</hi> An <hi>English</hi> Country Gentle<g ref="char:EOLhyphen"/>man.</item>
+               <item>Mr. <hi>Underhill, Blunt,</hi> An <hi>English</hi> Country Gentleman.</item>
                <item>Mr. <hi>Richards, Stephano,</hi> Servant to <hi>Don Pedro.</hi>
                </item>
                <item>Mr. <hi>Percivall, Philippo, Lucetta's</hi> Gallant.</item>
-               <item>Mr. <hi>Iohn Lee, Sancho,</hi> Pimp to <hi>Lucetta.</hi>
+               <item>Mr. <hi>John Lee, Sancho,</hi> Pimp to <hi>Lucetta.</hi>
                </item>
                <item>
                   <hi>Biskey,</hi> and <hi>Sebastian, Two Bravo's to</hi> Angellica.</item>
@@ -242,7 +242,7 @@ of the <hi>English Saxons.</hi> Together with a Catalogue of the 76
                <head>Women.</head>
                <item>Mrs. <hi>Betterton, Florinda,</hi> Sister to <hi>Don Pedro.</hi>
                </item>
-               <item>Mrs. <hi>Barrer, Hellena,</hi> A gay Young Woman de<g ref="char:EOLhyphen"/>sign'd for a Nun, and Sister to <hi>Florinda.</hi>
+               <item>Mrs. <hi>Barrer, Hellena,</hi> A gay Young Woman design'd for a Nun, and Sister to <hi>Florinda.</hi>
                </item>
                <item>Mrs. <hi>Hughs, Valeria,</hi> A Kinswoman to <hi>Florinda.</hi>
                </item>
@@ -260,9 +260,9 @@ of the <hi>English Saxons.</hi> Together with a Catalogue of the 76
          <div n="1" type="act">
             <pb n="1" facs="tcp:98343:3"/>
             <head>THE
-ROVER:
+ROVER:<note>pirate, or a person who travels from place to place without fixed route or destination (Oxford English Dictionary)</note>
 OR,
-The Banish't Cavaliers.</head>
+The Banish't Cavaliers.<note>Supporters of Charles I in the English Civil War between him and the Parliament; Royalists; Exhiled with King Charles II from 1640 until 1660. (Oxford English Dictionary) Smith, Geoffrey. "The Cavaliers in Exile: 1640-1660." Google Books. Google, n.d. Web. 2 Dec. 2016.</note></head>
             <head>ACT the First.</head>
             <div n="1" type="scene">
                <head>Scene the First. A Chamber.</head>
@@ -3800,7 +3800,7 @@ wish.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>Let that alone till to Morrow, and if I set not all right a<g ref="char:EOLhyphen"/>gain,
+                  <p>Let that alone till to Morrow, and if I set not all right again,
 use your pleasure.</p>
                </sp>
                <sp>
@@ -3813,7 +3813,7 @@ use your pleasure.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>What then?</p>
+<                  <p>What then?</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
@@ -3821,8 +3821,8 @@ use your pleasure.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>I shall be finely inform'd then, no doubt, hear me Colo<g ref="char:EOLhyphen"/>nel
-—hear me—shew me the Man and I'le do his Busi<g ref="char:EOLhyphen"/>ness.</p>
+                  <p>I shall be finely inform'd then, no doubt, hear me Colonel
+—hear me—shew me the Man and I'le do his Business.</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
@@ -3834,12 +3834,12 @@ need thy Aid.</p>
                   <p>This you say is <hi>Angellicas</hi> House, I promis'd the kind
 Baggage to lye with her to Night.</p>
                </sp>
-               <stage>[Offers to go in.</stage>
+<<               <stage>[Offers to go in.</stage>
                <stage>Enter <hi>Antonio</hi> and his Page. <hi>Ant<g ref="char:punc">▪</g>
                   </hi> knock
 on the Hilt of's Sword.</stage>
                <sp>
-                  <speaker>Ant.</speaker>
+.                  <speaker>Ant.</speaker>
                   <p>You paid the Thousand Crowns I directed?</p>
                </sp>
                <sp>
@@ -3861,17 +3861,16 @@ if I find no comfort there, I'll dye.</p>
                <sp>
                   <speaker>Moret.</speaker>
                   <p>Page!</p>
-               </sp>
+<               </sp>
                <sp>
                   <speaker>Page.</speaker>
                   <p>Here's my Lord.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>How is this! a Pickroone going to board my Fregate?
-here's one Chase Gun for you.</p>
-               </sp>
-               <stage>Drawing his Sword, justles <hi>Ant.</hi> who turns and draws.
+                  <p>How is this! a Pickroone<note>A variant spelling of Picaroon meaning a rogue or a scoundrel</note> going to board my Fregate<note>a warship</note>?
+here's one Chase Gun<note>a canon at the bow or stern of an armed ship used in pursuit (Merriam-Webster)</note> for you.</p>               </sp>
+               <stage>Drawing his Sword, justles<note>jostles (Dictionary.com)</note> <hi>Ant.</hi> who turns and draws.
 They fight, <hi>Ant.</hi> falls.</stage>
                <sp>
                   <speaker>Moret.</speaker>
@@ -3885,7 +3884,7 @@ They fight, <hi>Ant.</hi> falls.</stage>
                <stage>[<hi>Belvile</hi> returns at the noise of fighting.</stage>
                <sp>
                   <speaker>Belv.</speaker>
-                  <p>Ha! the mad Rogue's engag'd in some unlucky Adven<g ref="char:EOLhyphen"/>ture
+                  <p>Ha! the mad Rogue's engag'd in some unlucky Adventure
 again.</p>
                </sp>
                <stage>
@@ -3901,7 +3900,7 @@ Enter two or three Masqueraders.</stage>
                </sp>
                <stage>[Puts up and reels out<g ref="char:punc">▪</g>
                </stage>
-               <stage>Ex. Mas<expan>
+               <stage>Ex. Masq.<expan>
                      <am>
                         <g ref="char:abque"/>
                      </am>
@@ -5506,7 +5505,7 @@ to be Cajold again, think ye? No, young one, no Prayers or
 Tears shall mitigate my rage; therefore prepare for both my
 <pb n="66" facs="tcp:98343:36"/>
 pleasures of injoyment and revenge, for I am resolv'd to make
-up my loss here on thy body, I'l take it out in kindness and in beating.</p>
+up my loss here on thy body, I'l take it out in kindness and in beat<g ref="char:EOLhyphen"/>ing.</p>
                </sp>
                <sp>
                   <speaker>Fred.</speaker>
@@ -5518,7 +5517,7 @@ up my loss here on thy body, I'l take it out in kindness and in beating.</p>
                </sp>
                <sp>
                   <speaker>Fred.</speaker>
-                  <p>Have a care, <hi>Blunt,</hi> she fetch't a deep sigh, she is inamour'd
+                  <p>Have a care, <hi>Blunt,</hi> she fetch't a deep sigh, she is ina<g ref="char:EOLhyphen"/>mour'd
 with thy Shirt and Drawers, she'l strip thee even of that,
 there are of her calling such unconscionable Baggages, and such
 dexterous Thieves, they'l flea a man and he shall ne're miss his
@@ -5563,13 +5562,13 @@ a double pleasure in't.</p>
                <sp>
                   <speaker>Blunt.</speaker>
                   <p>Well said. You hear, little one, how you are condemn'd
-by publick Vote to the Bed within, there's no resisting your Destiny,
+by publick Vote to the Bed within, there's no resisting your De<g ref="char:EOLhyphen"/>stiny,
 sweet heart.</p>
                </sp>
                <stage>[Pulls her.</stage>
                <sp>
                   <speaker>Flor.</speaker>
-                  <p>Stay, Sir, I have seen you with <hi>Belvile,</hi> an <hi>English</hi> Cavalier,
+                  <p>Stay, Sir, I have seen you with <hi>Belvile,</hi> an <hi>English</hi> Cava<g ref="char:EOLhyphen"/>lier,
 for his sake use me kindly; you know him, Sir.</p>
                </sp>
                <sp>
@@ -5593,11 +5592,11 @@ justice.</p>
                </sp>
                <sp>
                   <speaker>Flor.</speaker>
-                  <p>Sir, if you find me not worth <hi>Belvile's</hi> care, use me as
+                  <p>Sir, if you find me not worth <hi>Belvile</hi>'s care, use me as
 you please, and that you may think I merit better treatment
 than you threaten—pray take this present—</p>
                </sp>
-               <stage>[Gives him a Ring: he looks on it.</stage>
+               <stage>[Gives him a Ring: he loods on it.</stage>
                <sp>
                   <speaker>Blunt.</speaker>
                   <p>Hum—a Diamond! whe 'tis a wonderful Virtue now
@@ -5606,7 +5605,7 @@ more perswasive Rhetorick in't, than all her Sex can utter.</p>
                </sp>
                <sp>
                   <speaker>Fred.</speaker>
-                  <p>I begin to suspect something; and 'twould anger us vilely
+                  <p>I begin to suspect something; and 'twould anger us vile<g ref="char:EOLhyphen"/>ly
 to be trust up for a rape upon a Maid of quality, when we only
 believe we ruffle a Harlot.</p>
                </sp>
@@ -5660,15 +5659,14 @@ I'l prevent their coming this way.</p>
             <pb n="68" facs="tcp:98343:37"/>
             <head>ACT V.</head>
             <div n="1" type="scene">
-               <head>Scene I. Blunt's <hi>Chamber.</hi>
-	       </head>
+               <head>Scene I. Blunt's Chamber.</head>
                <stage>After a great knocking as at his Chamber Door, Enter <hi>Blunt</hi> softly
 crossing the Stage, in his Shirt and Drawers as before.</stage>
                <p>Ned, Ned Blunt, Ned Blunt.</p>
                <stage>[call within.</stage>
                <sp>
                   <speaker>Blunt.</speaker>
-                  <p>The Rogues are up in Arms, 'Sheartlikins this Villainous
+                  <p>The Rogues are up in Arms, 'Sheartlikins this Vil<g ref="char:EOLhyphen"/>lainous
 <hi>Frederick</hi> has betray'd me, they have heard of my blessed
 Fortune,</p>
                   <p>Ned <hi>Blunt,</hi> Ned, Ned—</p>
@@ -5681,7 +5679,7 @@ seen to day, let's break open the door—here—Boy—</p>
                </sp>
                <sp>
                   <speaker>Blunt.</speaker>
-                  <p>Ha, break open the door. d'sheartlikins that mad Fellow
+                  <p>Ha, break open the door. d'sheartlikins that mad Fel<g ref="char:EOLhyphen"/>low
 will be as good as his word.</p>
                </sp>
                <sp>
@@ -5692,12 +5690,12 @@ will be as good as his word.</p>
                <sp>
                   <speaker>Blunt.</speaker>
                   <p>So, now must I speak, in my own defence, I'l try what
-Rhetorick will do—hold—hold what do you mean Gentlemen,
+Rhetorick will do—hold—hold what do you mean Gentle<g ref="char:EOLhyphen"/>men,
 what do you mean?</p>
                </sp>
                <sp>
                   <speaker>Bell.</speaker>
-                  <p>Oh Rogue art a live, prithee open the door and convince
+                  <p>Oh Rogue art a live, prithee open the door and con<g ref="char:EOLhyphen"/>vince
 us.</p>
                </sp>
                <stage>[within.</stage>
@@ -5720,7 +5718,7 @@ alow a Man time to Pray.</p>
                </sp>
                <sp>
                   <speaker>Bell.</speaker>
-                  <p>Turn'd Religious! a greater wonder then the first, therefore
+                  <p>Turn'd Religious! a greater wonder then the first, there<g ref="char:EOLhyphen"/>fore
 open quickly, or we shall unhinge, we shall.</p>
                </sp>
                <stage>[within.</stage>
@@ -5756,7 +5754,7 @@ his Sword, and comes up to <hi>Wilmore.</hi>
                   <speaker>Blunt.</speaker>
                   <p>Hearkey Sir, laugh out your laugh quickly, de ye hear,
 and begone. I shall spoil your sport else, 'adsheartlikins Sir, I shall
-the jeast has been carryed on too long—a plague upon my Tayler.—</p>
+the jeast has been carryed on too long—a plague upon my Tay<g ref="char:EOLhyphen"/>ler.—</p>
                   <stage>[aside.</stage>
                </sp>
                <sp>
@@ -5779,7 +5777,7 @@ young, so sandsome, and so Eloquent—ha, ha, he.—</p>
                <sp>
                   <speaker>Blunt.</speaker>
                   <p>Harkey Sir, you know me, and know I can be angry,
-have a care—for 'adsheartlikins I can fight too—I can Sir,—do
+have a care—for adsheartlikins I can fight too—I can Sir,—do
 you mark me—no more—</p>
                </sp>
                <sp>
@@ -5805,20 +5803,20 @@ too, or you shall know <hi>Ned Blunt</hi> is not—</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>Unconscionable sinner, to bring a Lover so neer his happiness,
+                  <p>Unconscionable sinner, to bring a Lover so neer his hap<g ref="char:EOLhyphen"/>piness,
 a vigorous passionate Lover, and then not only cheat him
 of his moveables, but his very desires to.</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
-                  <p>Ah! Sir a Mistress, is a trifle with <hi>Blunt.</hi> he'l have a
+                  <p>Ah! Sir a Mistress, is a trifle with Blunt. he'l have a
 duzen the next time he looks abroad, his Eyes have Charms, not
 to be resisted, there needs no more then to expose that taking
-Person, to the view of the Fair, and he leads 'em all in Triumph.</p>
+Person, to the view of the Fair, and he leads 'em all in Tri<g ref="char:EOLhyphen"/>umph.</p>
                </sp>
                <sp>
                   <speaker>Ped.</speaker>
-                  <p>Sir, tho 'I'me a stranger to you, I am asham'd at the rudeness
+                  <p>Sir, tho 'I'me a stranger to you, I am asham'd at the rude<g ref="char:EOLhyphen"/>ness
 of my Nation; and cou'd you learn who did it, wou'd assist you
 to make an Example of 'em.</p>
                </sp>
