@@ -226,11 +226,11 @@ of the <hi>English Saxons.</hi> Together with a Catalogue of the 76
                <item>Mr. <hi>Smith, Willmore,</hi> The ROVER.</item>
                <item>Mr. <hi>Crosbie, Frederick,</hi> An <hi>English</hi> Gentleman, and Friend to <hi>Bel.</hi> and <hi>Fred.</hi>
                </item>
-               <item>Mr. <hi>Underhill, Blunt,</hi> An <hi>English</hi> Country Gentleman.</item>
+               <item>Mr. <hi>Underhill, Blunt,</hi> An <hi>English</hi> Country Gentle<g ref="char:EOLhyphen"/>man.</item>
                <item>Mr. <hi>Richards, Stephano,</hi> Servant to <hi>Don Pedro.</hi>
                </item>
                <item>Mr. <hi>Percivall, Philippo, Lucetta's</hi> Gallant.</item>
-               <item>Mr. <hi>John Lee, Sancho,</hi> Pimp to <hi>Lucetta.</hi>
+               <item>Mr. <hi>Iohn Lee, Sancho,</hi> Pimp to <hi>Lucetta.</hi>
                </item>
                <item>
                   <hi>Biskey,</hi> and <hi>Sebastian, Two Bravo's to</hi> Angellica.</item>
@@ -242,7 +242,7 @@ of the <hi>English Saxons.</hi> Together with a Catalogue of the 76
                <head>Women.</head>
                <item>Mrs. <hi>Betterton, Florinda,</hi> Sister to <hi>Don Pedro.</hi>
                </item>
-               <item>Mrs. <hi>Barrer, Hellena,</hi> A gay Young Woman design'd for a Nun, and Sister to <hi>Florinda.</hi>
+               <item>Mrs. <hi>Barrer, Hellena,</hi> A gay Young Woman de<g ref="char:EOLhyphen"/>sign'd for a Nun, and Sister to <hi>Florinda.</hi>
                </item>
                <item>Mrs. <hi>Hughs, Valeria,</hi> A Kinswoman to <hi>Florinda.</hi>
                </item>
@@ -260,9 +260,9 @@ of the <hi>English Saxons.</hi> Together with a Catalogue of the 76
          <div n="1" type="act">
             <pb n="1" facs="tcp:98343:3"/>
             <head>THE
-ROVER:<note>pirate, or a person who travels from place to place without fixed route or destination (Oxford English Dictionary)</note>
+ROVER:
 OR,
-The Banish't Cavaliers.<note>Supporters of Charles I in the English Civil War between him and the Parliament; Royalists; Exhiled with King Charles II from 1640 until 1660. (Oxford English Dictionary) Smith, Geoffrey. "The Cavaliers in Exile: 1640-1660." Google Books. Google, n.d. Web. 2 Dec. 2016.</note></head>
+The Banish't Cavaliers.</head>
             <head>ACT the First.</head>
             <div n="1" type="scene">
                <head>Scene the First. A Chamber.</head>
@@ -270,7 +270,7 @@ The Banish't Cavaliers.<note>Supporters of Charles I in the English Civil War be
                   <hi>Enter</hi> Florinda <hi>and</hi> Hellena.</stage>
                <sp>
                   <speaker>Flor.</speaker>
-                  <p>What an Impertinent thing is a Young Girl bred
+                  <p>WHat an Impertinent thing is a Young Girl bred
 in a Nunnery? How full of Questions? Prithee
 no more <hi>Hellena,</hi> I have told thee more than
 thou understand'st already.</p>
@@ -306,7 +306,7 @@ Belvill.</hi>
                   <speaker>Hell.</speaker>
                   <p>That blush betrays you.—I am sure 'tis so—or is
 it <hi>Don Antonio</hi> the Vice-Roy's Son?—or perhaps the Rich
-Old <hi>Don Vincentio</hi> whom my Father designs you for a Husband?-
+Old <hi>Don Vincentio</hi> whom my Father designs you for a Husband?
 why do you blush again?</p>
                </sp>
                <sp>
@@ -319,7 +319,7 @@ and more to my Soul, then to obey those unjust Commands.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
-                  <p>Now hang me, if I don't love thee for that dear disobedience.
+                  <p>Now hang me, if I don't love thee for that dear disobe<g ref="char:EOLhyphen"/>dience.
 I love mischief strangely, as most of our Sex do, who
 are come to Love nothing else—but tell me dear <hi>Florinda,</hi>
 don't you love that fine <hi>Anglese?</hi>—for I vow next to loving
@@ -338,8 +338,8 @@ Curious in a discourse of Love.</p>
 till I'm so Old, I'm fit for nothing else—Faith no Sister; and
 that which makes me long to know whether you love <hi>Belvile,</hi> is
 because I hope he has some mad Companion or other, that will
-spoil my devotion, nay I'm resolv'd to provide my self this Carnival,
-if there be ere a handsome proper fellow of my humour above
+spoil my devotion, nay I'm resolv'd to provide my self this Car<g ref="char:EOLhyphen"/>nival,
+if there be ere a handsome proper fellow of my humour a<g ref="char:EOLhyphen"/>bove
 ground, tho I ask first.</p>
                </sp>
                <sp>
@@ -354,7 +354,7 @@ that is unfit for Love—have I not a World of Youth? a humour
 gay? a Beauty passable? a Vigour desirable? well Shap't?
 clean limb'd? sweet breath'd? and sense enough to know how
 all these ought to be employ'd to the best advantage; yes I do and
-will, therefore lay aside your hopes of my Fortune by my being a
+will, therefore lay aside your hopes of my Fortune<g ref="char:punc">▪</g> by my being a
 Devote, and tell me how you came acquainted with this <hi>Belvile?</hi>
 for I perceive you knew him before he came to <hi>Naples.</hi>
                   </p>
@@ -363,7 +363,7 @@ for I perceive you knew him before he came to <hi>Naples.</hi>
                   <speaker>Flor.</speaker>
                   <p>Yes, I knew him at the Siege of <hi>Pampulona,</hi> he was then
 a Colonel of <hi>French</hi> Horse, who when the Town was Ransack't,
-Nobly treated my Brother and my self, preserving us from all Insolences;
+Nobly treated my Brother and my self, preserving us from all In<g ref="char:EOLhyphen"/>solences;
 and I must own, (besides great Obligations) I have I know
 not what, that pleads kindly for him about my Heart, and will
 suffer no other to enter.—But see my Brother.</p>
@@ -384,7 +384,7 @@ consider it so little, I know not when it was.</p>
                   <pb n="3" facs="tcp:98343:4"/>
                   <speaker>Pedro.</speaker>
                   <p>I have a Command from my Father here to tell you, you
-ought not to despise him, a Man of so vast a Fortune, and such a Passion
+ought not to despise him, a Man of so vast a Fortune, and such a Pas<g ref="char:EOLhyphen"/>sion
 for you—<hi>Stephano</hi> my things.</p>
                </sp>
                <stage>[Puts on his Masquing habit.</stage>
@@ -407,7 +407,7 @@ Name of that Cavalier.</p>
                   <speaker>Flor.</speaker>
                   <p>I'le not deny I value <hi>Belvile,</hi> when I was expos'd to such
 dangers as the Licenc'd Lust of common Souldiers threatned,
-when Rage and Conquest flew through the City—then <hi>Belvile</hi>
+when Rage and Conquest flew through the City—then <hi>Bel<g ref="char:EOLhyphen"/>vile</hi>
 this Criminal for my sake, through himself into all dangers to
 save my Honour and will you not allow him my esteem?</p>
                </sp>
@@ -442,7 +442,7 @@ you to understand the value of Hearts and Eyes?</p>
                <sp>
                   <speaker>Hell.</speaker>
                   <p>Better than to believe <hi>Vincentio</hi>'s deserve value from any
-Woman—he may perhaps encrease her Baggs, but not her Family.</p>
+Woman—he may perhaps encrease her Baggs, but not her Fa<g ref="char:EOLhyphen"/>mily.</p>
                </sp>
                <sp>
                   <speaker>Pedro.</speaker>
@@ -453,22 +453,22 @@ design'd for the conversation of Lovers.</p>
                   <speaker>Hell.</speaker>
                   <p>Nor Saints, yet a while I hope <stage>[Aside.</stage>
 I'st not enough you make a Nun of me, but you must cast my
-Sister away too? exposing her to a worse confinement than a Religious
+Sister away too? exposing her to a worse confinement than a Reli<g ref="char:EOLhyphen"/>gious
 life.</p>
                </sp>
                <sp>
                   <speaker>Pedro.</speaker>
-                  <p>The Girl's mad—it is a confinement to be carry'd into
+                  <p>The Girl's mad—it is a confinement to be carry'd in<g ref="char:EOLhyphen"/>to
 the Countrey, to an Antient Villa belonging to the Family of
 <pb n="4" facs="tcp:98343:5"/>
-the <hi>Vincentio's</hi> these five hundred Years, and have no other Prospect
+the <hi>Vincentio's</hi> these five hundred Years, and have no other Pro<g ref="char:EOLhyphen"/>spect
 than that pleasing one of seeing all her own that meets her
 Eyes—a fine Ayr, large Fields and Gardens, where she may
 walk and gather Flowers.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
-                  <p>When by Moon Light? For I am sure she dares not encounter
+                  <p>When by Moon Light? For I am sure she dares not en<g ref="char:EOLhyphen"/>counter
 with the heat of the Sun, that were a task only for <hi>Don
 Vincentio</hi> and his Indian breeding, who loves it in the Dog
 dayes.—and if these be her daily divertisements, what are
@@ -483,7 +483,7 @@ The Bed, that which his Fore—fathers liv'd and dy'd in.</p>
                <sp>
                   <speaker>Hell.</speaker>
                   <p>This Appartment (new furbrusht and fitted out for the
-young Wife) he (out of freedom) makes his dressing Room, and being
+young Wife) he (out of freedom) makes his dressing Room, and be<g ref="char:EOLhyphen"/>ing
 a Frugal and a Jealus Coxcomb, instead of a Valet to uncase his
 feeble Carcass, he desires you to do that Office—signs of favour
 I'll assure you, and such as you must not hope for, unless your
@@ -521,12 +521,12 @@ to Marry him, as she was before.</p>
                   <p>Marry <hi>Don Vincentio!</hi> hang me such a Wedlock would
 be worse than Adultery with another Man. I had rather see her
 in the <hi>Hostel de Dieu,</hi> to wast her Youth there in Vowes, and be a
-hand-Maid to Lazers and Cripples, than to lose it in such a Marriage.</p>
+hand-Maid to Lazers and Cripples, than to lose it in such a Mar<g ref="char:EOLhyphen"/>riage.</p>
                </sp>
                <sp>
                   <speaker>Pedro.</speaker>
                   <p>You have consider'd Sister, that <hi>Belvile</hi> has no Fortune
-to bring you to, banisht his Countrey, despis'd at home, and pitty'd
+to bring you to, banisht his Countrey, despis'd at home, and pit<g ref="char:EOLhyphen"/>ty'd
 abroad.</p>
                </sp>
                <sp>
@@ -541,7 +541,7 @@ for your Youth and Fortune.</p>
                   <speaker>Pedro.</speaker>
                   <p>
                      <hi>Callis</hi> take her hence, and lock her up all this Carnival,
-and at Lent she shall begin her everlasting Pennance in a Monastery.</p>
+and at Lent she shall begin her everlasting Pennance in a Mona<g ref="char:EOLhyphen"/>stery.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
@@ -569,7 +569,7 @@ me.</p>
 As for you <hi>Florinda,</hi> I've only try'd you all this while and urg'd
 my Fathers will; but mine is, that you wou'd love <hi>Antonio,</hi> he is
 Brave and young, and all that can compleat the happiness of a
-Gallant Maid—this absence of my Father will give us opportunity,
+Gallant Maid—this absence of my Father will give us oppor<g ref="char:EOLhyphen"/>tunity,
 to free you from <hi>Vincentio,</hi> by Marrying here, which you
 must do to Morrow.</p>
                </sp>
@@ -579,7 +579,7 @@ must do to Morrow.</p>
                </sp>
                <sp>
                   <speaker>Pedro.</speaker>
-                  <p>To Morrow, or 'twill be too late—tis not my Friendship
+                  <p>To Morrow, or 'twill be too late—tis not my Friend<g ref="char:EOLhyphen"/>ship
 to <hi>Antonio,</hi> which makes me urge this, but Love to thee, and
 hatred to <hi>Vincentio</hi>—therefore resolve upon to Morrow.</p>
                </sp>
@@ -591,7 +591,7 @@ hatred to <hi>Vincentio</hi>—therefore resolve upon to Morrow.</p>
                   <speaker>Pedro.</speaker>
                   <p>I'le both believe and trust you—Adieu</p>
                </sp>
-               <stage>Ex. <hi>Ped.</hi> & <hi>Steph.</hi>
+               <stage>Ex. <hi>Ped.</hi> &amp; <hi>Steph.</hi>
                </stage>
                <sp>
                   <speaker>Hell.</speaker>
@@ -614,7 +614,7 @@ up indeed, will you.</p>
                </sp>
                <sp>
                   <speaker>Call.</speaker>
-                  <p>I must obey the Commands I have—besides, do you consider
+                  <p>I must obey the Commands I have—besides, do you con<g ref="char:EOLhyphen"/>sider
 what a life you are going to lead?</p>
                </sp>
                <sp>
@@ -637,7 +637,7 @@ as the rest, and take all Innocent freedomes—Sister you'll go too,
 will you not? come prithee be not sad.—We'll out—wit Twenty
 Brothers, if you'll be rul'd by me—come put off this dull humour
 with your Cloths, and Assume one as gay, and as fantastick, as the
-Dress my Couzen <hi>Valeria,</hi> and I have provided, and let's Ramble.</p>
+Dress my Couzen <hi>Valeria,</hi> and I have provided, and let's Ram<g ref="char:EOLhyphen"/>ble.</p>
                </sp>
                <sp>
                   <speaker>Flor.</speaker>
@@ -665,7 +665,7 @@ drest, and stayes for you.</p>
                </sp>
                <sp>
                   <speaker>Flor.</speaker>
-                  <p>'Tis well.—I'll write a Note, and if I chance to see <hi>Belvile,</hi>
+                  <p>'Tis well.—I'll write a Note, and if I chance to see <hi>Bel<g ref="char:EOLhyphen"/>vile,</hi>
 and want an opportunity to speak to him, that shall let him
 know, what I've resolv'd in favour of him.</p>
                </sp>
@@ -724,9 +724,9 @@ Wou'd not that revive you?</p>
                <sp>
                   <speaker>Fred.</speaker>
                   <p>I have found it out; thou hast renew'd thy acquaintance
-with the Lady that cost thee so many sighs at the Siege of <hi>Pampulona—</hi>
+with the Lady that cost thee so many sighs at the Siege of <hi>Pam<g ref="char:EOLhyphen"/>pulona—</hi>
 Pox on't, what d'e you call her—her Brother's a
-Noble <hi>Spaniard</hi>—Nephew to the Dead General—<hi>Florinda—</hi>
+Noble <hi>Spaniard</hi>—Nephew to the Dead General—<hi>Flo<g ref="char:EOLhyphen"/>rinda—</hi>
 Ay <hi>Florinda</hi>—and will nothing serve thy turn but
 that damn'd virtuous Woman? whom on my Conscience thou
 lovest in spight too, because thou seest little or no possibility of
@@ -744,10 +744,10 @@ the severity of a Brother, who perceiving my happiness—</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
-                  <p>'Tis so, to make way for a Pow'rful Rival, the Vice-Roy's
-Son, who has the advantage of me, in being a Man of Fortune,
+                  <p>'Tis so, to make way for a Pow'rful Rival, the Vice<g ref="char:EOLhyphen"/>Roy's
+Son, who has the advantage of me, in being a Man of For<g ref="char:EOLhyphen"/>tune,
 a <hi>Spaniard,</hi> and her Brother's Friend, which gives him
-Liberty to make his Court, whilst I have recourse only to Letters,
+Liberty to make his Court, whilst I have recourse only to Let<g ref="char:EOLhyphen"/>ters,
 and distant looks from her Window, which are as soft and
 kind</p>
                   <p>As those which Heav'n sends down on Penitents.</p>
@@ -784,12 +784,12 @@ if he might have her for nothing.</p>
                <sp>
                   <speaker>Blunt.</speaker>
                   <p>Whe I 'Sheartlikins I love a Franck Soul—when did you
-ever hear of an honest Woman that took a Man's Money? I warrant
+ever hear of an honest Woman that took a Man's Money? I war<g ref="char:EOLhyphen"/>rant
 <pb n="8" facs="tcp:98343:7"/>
 'em good ones—but Gentlemen, You may be free, you
 have been kept so poor with Parliaments and Protectors, that the
 little Stock you have is not worth preserving—but I thank
-my Stars, I had more Grace than to forfeit my Estate by Cavaliering.</p>
+my Stars, I had more Grace than to forfeit my Estate by Cava<g ref="char:EOLhyphen"/>liering.</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
@@ -851,7 +851,7 @@ Traveller, but honest, stout, and one of us.</p>
                   <p>But well,—Faith I'm glad to meet you again in a warm
 Climate, where the kind Sun has its God-like Pow'r still over
 the Wine and Women—Love and Mirth! are my bus'ness in
-<hi>Naples,</hi> and if I mistake not the place, here's an Excellent Market
+<hi>Naples,</hi> and if I mistake not the place, here's an Excellent Mar<g ref="char:EOLhyphen"/>ket
 for Chapmen of my humour.</p>
                </sp>
                <sp>
@@ -3800,7 +3800,7 @@ wish.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>Let that alone till to Morrow, and if I set not all right a<g ref="char:EOLhyphen"/>gain,
+                  <p>Let that alone till to Morrow, and if I set not all right again,
 use your pleasure.</p>
                </sp>
                <sp>
@@ -3813,7 +3813,7 @@ use your pleasure.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>What then?</p>
+<                  <p>What then?</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
@@ -3821,8 +3821,8 @@ use your pleasure.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>I shall be finely inform'd then, no doubt, hear me Colo<g ref="char:EOLhyphen"/>nel
-—hear me—shew me the Man and I'le do his Busi<g ref="char:EOLhyphen"/>ness.</p>
+                  <p>I shall be finely inform'd then, no doubt, hear me Colonel
+—hear me—shew me the Man and I'le do his Business.</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
@@ -3834,7 +3834,7 @@ need thy Aid.</p>
                   <p>This you say is <hi>Angellicas</hi> House, I promis'd the kind
 Baggage to lye with her to Night.</p>
                </sp>
-               <stage>[Offers to go in.</stage>
+<               <stage>[Offers to go in.</stage>
                <stage>Enter <hi>Antonio</hi> and his Page. <hi>Ant<g ref="char:punc">▪</g>
                   </hi> knock
 on the Hilt of's Sword.</stage>
@@ -3861,15 +3861,15 @@ if I find no comfort there, I'll dye.</p>
                <sp>
                   <speaker>Moret.</speaker>
                   <p>Page!</p>
-               </sp>
+<               </sp>
                <sp>
                   <speaker>Page.</speaker>
                   <p>Here's my Lord.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>How is this! a Pickroone going to board my Fregate?
-here's one Chase Gun for you.</p>
+                  <p>How is this! a Pickroone<note>A variant spelling of Picaroon meaning a rogue or a scoundrel</note> going to board my Fregate<note>a warship</note>?
+here's one Chase Gun<note>a canon at the bow or stern of an armed ship used in pursuit (Merriam-Webster)</note> for you.</p>
                </sp>
                <stage>Drawing his Sword, justles <hi>Ant.</hi> who turns and draws.
 They fight, <hi>Ant.</hi> falls.</stage>
